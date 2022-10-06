@@ -1,7 +1,7 @@
 const _ = require('lodash')
 
 function fetchGracePeriodLogicFromMapping (cardId, mapping = '') {
-    return "base"
+    return ''
 }
 
 module.exports = fetchGracePeriodLogicFromMapping
