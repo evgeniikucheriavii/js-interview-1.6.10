@@ -1,4 +1,4 @@
-const fetchGracePeriodLogicFromMapping = require('./grace-period.js')
+const fetchGracePeriodLogicFromMapping = require('./index')
 
 
 describe('grace period utils', () => {
